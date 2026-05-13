@@ -5,11 +5,11 @@
 [submodule "emln"]
 	path = emln
 	url = https://github.com/Ecological-Complexity-Lab/emln
-	branch = *release
+	branch = v1.2.0
 [submodule "ggmira"]
 	path = ggmira
 	url = https://github.com/Ecological-Complexity-Lab/ggmira
-	branch = *release
+	branch = v1.0.1
 [submodule "infomapecology"]
 	path = infomapecology
 	url = https://github.com/Ecological-Complexity-Lab/infomap_ecology
