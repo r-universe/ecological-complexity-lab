@@ -1,7 +1,16 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/ecological-complexity-lab/ecological-complexity-lab.r-universe.dev
 	branch = HEAD
 [submodule "emln"]
 	path = emln
-	url = https://github.com/ecological-complexity-lab/emln
+	url = https://github.com/Ecological-Complexity-Lab/emln
+	branch = *release
+[submodule "ggmira"]
+	path = ggmira
+	url = https://github.com/Ecological-Complexity-Lab/ggmira
+	branch = *release
+[submodule "infomapecology"]
+	path = infomapecology
+	url = https://github.com/Ecological-Complexity-Lab/infomap_ecology
+	branch = *release

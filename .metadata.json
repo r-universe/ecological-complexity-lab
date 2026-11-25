@@ -1,0 +1,14 @@
+[
+  {
+    "package": "emln",
+    "releasetag": true
+  },
+  {
+    "package": "infomapecology",
+    "releasetag": true
+  },
+  {
+    "package": "ggmira",
+    "releasetag": true
+  }
+]
