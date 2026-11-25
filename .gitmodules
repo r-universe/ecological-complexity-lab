@@ -12,5 +12,5 @@
 	branch = v1.0.1
 [submodule "infomapecology"]
 	path = infomapecology
-	url = https://github.com/Ecological-Complexity-Lab/infomap_ecology
+	url = https://github.com/Ecological-Complexity-Lab/infomap_ecology_package
 	branch = *release
